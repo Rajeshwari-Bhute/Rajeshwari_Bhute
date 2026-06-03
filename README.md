@@ -59,8 +59,10 @@
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin-profile
+* 📧 Email: [rajeshwaribhute241@gmail.com](mailto:your-email@example.com)
+* 💼 LinkedIn:www.linkedin.com/in/
+rajeshwari-bhute-298120370
+
 
 ---
 
