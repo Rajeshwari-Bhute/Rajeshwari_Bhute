@@ -1,4 +1,4 @@
-# Hi 👋, I'm Narendra Bhute
+# Hi 👋, I'm Rajeshwari Bhute
 
 <div align="center">
 
