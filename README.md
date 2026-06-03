@@ -47,7 +47,7 @@
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshwari-Bhute/Rajeshwari_Bhute\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshwari-Bhute&layout=compact&theme=tokyonight)
 
 ---
 
