@@ -51,11 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&row=1\&column=7)
-
----
 
 ## 🌐 Connect With Me
 
