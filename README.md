@@ -1,5 +1,6 @@
 # Hi 👋, I'm Rajeshwari Bhute
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Python+Programmer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
